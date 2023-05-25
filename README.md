@@ -37,7 +37,8 @@ This POS application was developed by a team of developers including:
     Jun Dave Wamar (Front-End, Back End Developer, UI/UX Designer)
     Ryan Boltron (UI/UX)
     Weljie Pitogo (Database Manager)
-    Marianne Bueta (Snack Sponsor)
+    Vince Parco (Graphic Designer)
+    Marianne Bueta (UI/UX Designer)
 
 License
 
